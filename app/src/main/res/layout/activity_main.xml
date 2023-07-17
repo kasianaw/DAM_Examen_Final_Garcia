@@ -18,16 +18,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/luke_chesser_b_ol3jet5l4_unsplash" />
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_marginTop="30dp"
-        android:backgroundTint="@color/material_dynamic_secondary60"
-        app:layout_constraintEnd_toStartOf="@+id/guideline2"
-        app:layout_constraintStart_toStartOf="@+id/guideline"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/baseline_android_24" />
+
 
     <EditText
         android:id="@+id/editTextTextEmailAddress"
